@@ -14,7 +14,7 @@
 <a href="https://996.icu"><img src="https://img.shields.io/badge/license-Anti%20996-blue.svg" alt="996.icu" /></a>
 </p>
 
-## 扩展包要求
+## 扩展包要求！
 
 -   PHP >= 7.0
 
