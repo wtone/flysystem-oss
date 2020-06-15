@@ -1,5 +1,5 @@
 {
-    "name": "iidestiny/flysystem-oss",
+    "name": "wtone/flysystem-oss",
     "description": "Flysystem adapter for the Oss storage.",
     "keywords": [
         "Laravel",
@@ -10,8 +10,8 @@
     "license": "MIT",
     "authors": [
         {
-            "name": "iidestiny",
-            "email": "iidestiny@vip.qq.com"
+            "name": "wtone",
+            "email": "719863381.qq.com"
         }
     ],
     "require": {
